@@ -1,8 +1,8 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: 'https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      light: 'https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      dark: 'https://media.licdn.com/dms/image/v2/D5603AQFedNqNnwFFHQ/profile-displayphoto-shrink_200_200/B56ZU.JmabGUAY-/0/1740504459429?e=2147483647&v=beta&t=KKkdas9mCmKVZYvzgmCfEwFB6SfoiymQnf9hxJlmIvc',
+      light: 'https://media.licdn.com/dms/image/v2/D5603AQFedNqNnwFFHQ/profile-displayphoto-shrink_200_200/B56ZU.JmabGUAY-/0/1740504459429?e=2147483647&v=beta&t=KKkdas9mCmKVZYvzgmCfEwFB6SfoiymQnf9hxJlmIvc',
       alt: 'My profile picture'
     },
     meetingLink: 'https://cal.com/',
@@ -29,24 +29,24 @@ export default defineAppConfig({
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-nuxtdotjs',
-      'to': 'https://nuxt.com',
+      'to': 'https://nihirz.netlify.app',
       'target': '_blank',
-      'aria-label': 'Nuxt Website'
+      'aria-label': 'Website'
     }, {
-      'icon': 'i-simple-icons-discord',
-      'to': 'https://discord.com/invite/ps2h6QT',
+      'icon': 'i-simple-icons-skype',
+      'to': 'https://join.skype.com/invite/yRPor5b7B9aD',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on Discord'
+      'aria-label': 'Skype'
     }, {
       'icon': 'i-simple-icons-x',
-      'to': 'https://x.com/nuxt_js',
+      'to': 'https://x.com/ZalaNihir',
       'target': '_blank',
-      'aria-label': 'Nuxt on X'
+      'aria-label': 'X'
     }, {
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
+      'to': 'https://github.com/ZalaNihir',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'GitHub'
     }]
   }
 })

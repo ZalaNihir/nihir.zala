@@ -1,13 +1,9 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+  title: "Nihir Zala - Laravel Developer"
+  description: "Welcome to my portfolio! I'm Nihir Zala, a Laravel Developer and front-end developer based in India. I specialize in creating user-centered digital experiences that are both beautiful and functional."
+title: "Hey, I'm Nihir Zala Laravel Developer"
+description: "I craft intuitive digital experiences where design meets functionality. Based in India, bringing ideas to life through code and creativity."
 hero:
-  links:
-    - label: "Use this template"
-      to: https://github.com/nuxt-ui-pro/portfolio
-      color: "neutral"
   images:
     - src: https://picsum.photos/468/468?random=1
       alt: Random Image 1
@@ -30,48 +26,47 @@ hero:
 about:
   title: "About Me"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    I've been making projects do my bidding for over 3+ years. I've done manythings from designing websites to building the servers they run on. These days my passion is building web applications with Laravel, Vue, and Tailwind.
 experience:
   title: Work Experience
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - position: "Software Engineer at"
+      date: "Jan 2025 - Jun 2025"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+        name: TechAbbot
+        logo: ""
+        url: "https://www.techabbot.com/"
+        color: "#2c9e53"
+    - position: "Laravel Developer at"
+      date: "Dec 2022 - Dec 2024"
       company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
-        color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+        name: Alphabit Infoway
+        logo: ""
+        url: "https://alphabitinfoway.in"
+        color: "#3d5da8"
+    - position: "PHP Developer at"
+      date: "Jan 2022 - Dec 2022"
       company:
-        name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
+        name: Impex Solutions
+        logo: ""
+        url: "https://impexsolutions.net/"
+        color: "#f9d9ae"
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "Nihir's expertise in Laravel development had a major impact on our project. He consistently delivered clean, efficient code and built scalable backend solutions that improved performance and security. Thanks to his work, our platform became faster, more reliable, and easier to maintain, resulting in a significant boost in user satisfaction and operational efficiency."
     author:
       name: 'Sarah Chen'
       description: 'Product Director at Bloom Finance'
       avatar:
         src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
         srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
+  - quote: "Working with Nihir was the best decision we made for our platform. He didn’t just write code—he understood our business goals, optimized complex backend processes, and built a robust system that scaled with our growth. His technical expertise and clear communication made collaboration with our team seamless and efficient."
     author:
       name: 'Michael Rodriguez'
       description: 'Co-founder of Wavelength Music'
       avatar:
         src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
         srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Emma stands out in her ability to translate complex sustainability data into intuitive interfaces. Her work on EcoTrack wasn't just visually stunning—it fundamentally changed how our users interact with environmental information. She approaches each problem with both creativity and analytical rigor, which is exactly what we needed."
+  - quote: "Nihir stands out in his ability to translate complex business requirements into efficient, scalable backend solutions. His work on our platform didn’t just improve performance—it fundamentally changed how our users interact with the system. He approaches each challenge with both technical expertise and a deep understanding of user needs, which is exactly what we needed."
     author:
       name: 'Dr. Aisha Johnson'
       description: 'Chief Innovation Officer at GreenTech Solutions'
@@ -89,10 +84,10 @@ faq:
       questions:
         - label: What services do you offer?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
-        - label: What is your design process like?
+            I specialize in Laravel development and full-stack web solutions. This includes building scalable backend systems, developing RESTful APIs, creating dynamic web applications, optimizing databases (MySQL), and integrating third-party services. I also work with front-end technologies like JavaScript and Bootstrap to deliver responsive, user-friendly interfaces. My goal is to build secure, efficient, and maintainable applications from concept to deployment.
+        - label: What is your development process like?
           content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
+            My development process is structured, collaborative, and goal-focused. It typically involves stages like Requirement Analysis, Database & Architecture Planning, Backend Development, API Integration, Frontend Integration, Testing & Debugging, and Deployment. I adapt my workflow based on project needs while ensuring clean, secure code and seamless collaboration with designers and stakeholders throughout the project lifecycle.
         - label: Do you work with startups?
           content: |
             Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
@@ -117,4 +112,4 @@ faq:
             I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
         - label: What are your hobbies outside of work?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            When I'm not designing or coding, I enjoy exploring India's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.

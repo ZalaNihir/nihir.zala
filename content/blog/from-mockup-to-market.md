@@ -9,7 +9,7 @@ minRead: 8
 author:
   name: Emma Thompson
   avatar:
-    src: https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    src: https://media.licdn.com/dms/image/v2/D5603AQFedNqNnwFFHQ/profile-displayphoto-shrink_200_200/B56ZU.JmabGUAY-/0/1740504459429?e=2147483647&v=beta&t=KKkdas9mCmKVZYvzgmCfEwFB6SfoiymQnf9hxJlmIvc
     alt: Emma Thompson
 ---
 
